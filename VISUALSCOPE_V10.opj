@@ -1,0 +1,67 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S035 (4083846)  [1/14/2023]-[11/02/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\visualscope_v10.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\visualscope_v10.dsn")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "Main")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "ADC")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "CON_PCIe_X4")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "FE")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "FE_Channel")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "FPGA")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "M2_KEY_M")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "PLL")
+      (Path "Design Resources" ".\visualscope_v10.dsn" "PWR")
+      (Select "Design Resources" ".\visualscope_v10.dsn" "Main" "Page1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 633"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1229 28 655")
+        (Scroll "0 140")
+        (Zoom "100"))
+      (Path "C:\USERS\EVANS\DESKTOP\MYDOC\SCOPE\VISUALSCOPE_V10.DSN")
+      (Schematic "M2_KEY_M")
+      (Page "Page1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1229 28 655")
+        (Scroll "0 360")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\EVANS\DESKTOP\MYDOC\SCOPE\VISUALSCOPE_V10.DSN")
+      (Schematic "Main")
+      (Page "Page1")))
+  (MPSSessionName "evans"))
